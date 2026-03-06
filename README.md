@@ -13,17 +13,19 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name       : Savinay Singh
-education  : B.Tech CSE + Data Science Minor @ LPU (2023–27)
-cgpa       : 8.3 / 10
-experience : IT Intern @ Hindalco Industries (2025) — "Excellent" Rating
-scholarship: AWOO Scholarship (via Hindalco)
-community  : Project Chhalaang — Education, Sports & Skill Development Initiative
-languages  : English, Hindi
-open_to    : Remote · Hybrid · On-site · Relocation
+name            : Savinay Singh
+degree          : B.Tech — Computer Science & Engineering @ LPU (2023–27)
+eng_minor       : Data Science
+open_minor      : Cloud DevOps & Agile Systems Engineering
+cgpa            : 8.3 / 10
+experience      : IT Intern @ Hindalco Industries (2025) — "Excellent" Rating
+scholarship     : AWOO Scholarship (via Hindalco)
+community       : Project Chhalaang — Education, Sports & Skill Development Initiative
+languages       : English, Hindi
+open_to         : Remote · Hybrid · On-site · Relocation
 ```
 
-> *Passionate about building intelligent systems — from galactic visualisations to adaptive OS schedulers — with a strong foundation in Data Science, AI/ML, and full-stack development.*
+> *Passionate about building intelligent systems — from galactic visualisations to adaptive OS schedulers — with a strong foundation in Data Science, Cloud DevOps, AI/ML, and full-stack development.*
 
 ---
 
