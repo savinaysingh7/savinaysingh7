@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Savinay%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=a8c8e8" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%2B+Data+Science+%40+LPU;AI+%2F+ML+%7C+Generative+AI+Enthusiast;Ex-IT+Intern+%40+Hindalco+%E2%80%94+%22Excellent%22+Rating;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%7C+Data+Science+%26+Cloud+DevOps+Minor;IT+Intern+%40+Hindalco+%E2%80%94+%22Excellent%22+Rating;Data+Science+Trainee+%40+LPU+%E2%80%94+%22Outstanding%22+Grade;AI+%2F+ML+%7C+Full-Stack+%7C+Generative+AI;Building+Intelligent+Data-Driven+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,15 +17,16 @@ name            : Savinay Singh
 degree          : B.Tech — Computer Science & Engineering @ LPU (2023–27)
 eng_minor       : Data Science
 open_minor      : Cloud DevOps & Agile Systems Engineering
-cgpa            : 8.3 / 10
-experience      : IT Intern @ Hindalco Industries (2025) — "Excellent" Rating
+cgpa            : 8.32 / 10
+experience_1    : IT Intern @ Hindalco Industries (2025) — "Excellent" Rating
+experience_2    : Data Science Trainee @ LPU CPE (2025) — "Outstanding (O)" Grade
 scholarship     : AWOO Scholarship (via Hindalco)
 community       : Project Chhalaang — Education, Sports & Skill Development Initiative
 languages       : English, Hindi
 open_to         : Remote · Hybrid · On-site · Relocation
 ```
 
-> *Passionate about building intelligent systems — from galactic visualisations to adaptive OS schedulers — with a strong foundation in Data Science, Cloud DevOps, AI/ML, and full-stack development.*
+> *Passionate about building intelligent systems — from full-stack knowledge marketplaces to galactic visualisations — with a strong foundation in Data Science, Cloud DevOps, AI/ML, and full-stack development.*
 
 ---
 
@@ -51,6 +52,15 @@ open_to         : Remote · Hybrid · On-site · Relocation
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+**Full-Stack & Cloud**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 **Tools & Platforms**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -67,12 +77,14 @@ open_to         : Remote · Hybrid · On-site · Relocation
 
 | Project | Description | Tech |
 |---|---|---|
-| 🌌 **[Planet Tracker: Galactic Nexus](https://github.com/savinaysingh7/Planet-Tracker)** | Real-time planetary tracking with AI-powered Q&A via Groq LLM | `Tkinter` `Skyfield` `Plotly` `Groq LLM` |
+| 🧑‍💻 **[HelperLearner](https://github.com/savinaysingh7)** | Production-grade Django knowledge marketplace with Redis, Celery, Gemini AI & CI/CD | `Django` `PostgreSQL` `Redis` `REST APIs` `GitHub Actions` |
+| 🌌 **[Planet Tracker: Galactic Nexus](https://github.com/savinaysingh7/Planet-Tracker)** | Real-time planetary tracking with AI-powered Q&A via Groq LLM — Hindalco Internship | `Skyfield` `Plotly` `Groq LLM` `Tkinter` |
+| 🏥 **[CCHS Health Analytics](https://github.com/savinaysingh7)** | ETL + predictive modeling on Canadian Community Health Survey data | `Python` `Scikit-Learn` `Power BI` `DAX` |
 | ⚙️ **[Real-Time Adaptive Scheduler](https://github.com/savinaysingh7/Adaptive-OS-Scheduler-for-Real-Time-Systems)** | OS scheduling simulator with live Gantt charts & unit tests | `Tkinter` `Matplotlib` `unittest` |
-| 📊 **[Customer Segmentation](https://github.com/savinaysingh7/customer-segmentation-shopping-trends)** | ML-powered segmentation pipeline with BI dashboards | `Python` `SQL` `Power BI` `ML` |
-| 🇮🇳 **[Indian Demography Dashboard](https://github.com/savinaysingh7)** | Interactive demographic analysis & visualisations | `Python` `Plotly` `Pandas` |
+| 📊 **[Customer Segmentation](https://github.com/savinaysingh7/customer-segmentation-shopping-trends)** | K-Means ML pipeline on 3,900+ transactions with Power BI dashboard — LPU Outstanding Grade | `Python` `SQL` `Power BI` `ML` |
+| 🇮🇳 **[Indian Demography Dashboard](https://github.com/savinaysingh7)** | Indian Census demographic analysis & reporting | `Python` `Excel` `Power BI` |
+| 📈 **[PUMS Census Analysis](https://github.com/savinaysingh7)** | Large-scale EDA on US Census microdata (6,868 × 206 features) | `Pandas` `Seaborn` `Matplotlib` |
 | 📝 **[SaviNote](https://github.com/savinaysingh7/SaviNote)** | Smart note-taking application | `TypeScript` `Python` |
-| 🌱 **[Community Environmental Report](https://github.com/savinaysingh7/Community-Environmental-Report)** | Data-driven community sustainability report | `Python` `Power BI` |
 
 ---
 
@@ -119,6 +131,8 @@ open_to         : Remote · Hybrid · On-site · Relocation
 
 > 🎖️ **AWOO Scholarship** recipient via Hindalco Industries | Rated **"Excellent"** on IT Internship (2025)
 > 
+> 🏆 **Outstanding (O) Grade** — "From Data to Decisions" Data Science Program @ LPU CPE (2025)
+>
 > 🤝 **Project Chhalaang** — 30-hour community initiative across Education, Sports & Skill Development (LPU × KDJS × ELMS Sports Foundation)
 
 ---
@@ -129,7 +143,7 @@ open_to         : Remote · Hybrid · On-site · Relocation
 
 [![GitHub](https://img.shields.io/badge/GitHub-savinaysingh7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savinaysingh7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/savinaysingh)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savinaysingh7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savinay07singh@gmail.com)
 
 </div>
 
