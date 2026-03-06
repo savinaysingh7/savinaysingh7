@@ -65,12 +65,12 @@ open_to    : Remote · Hybrid · On-site · Relocation
 
 | Project | Description | Tech |
 |---|---|---|
-| 🌌 **[Planet Tracker: Galactic Nexus](https://github.com/savinaysingh7)** | Real-time planetary tracking with AI-powered Q&A via Groq LLM | `Tkinter` `Skyfield` `Plotly` `Groq LLM` |
-| ⚙️ **[Real-Time Adaptive Scheduler](https://github.com/savinaysingh7)** | OS scheduling simulator with live Gantt charts & unit tests | `Tkinter` `Matplotlib` `unittest` |
-| 📊 **[Customer Segmentation](https://github.com/savinaysingh7)** | ML-powered segmentation pipeline with BI dashboards | `Python` `SQL` `Power BI` `ML` |
+| 🌌 **[Planet Tracker: Galactic Nexus](https://github.com/savinaysingh7/Planet-Tracker)** | Real-time planetary tracking with AI-powered Q&A via Groq LLM | `Tkinter` `Skyfield` `Plotly` `Groq LLM` |
+| ⚙️ **[Real-Time Adaptive Scheduler](https://github.com/savinaysingh7/Adaptive-OS-Scheduler-for-Real-Time-Systems)** | OS scheduling simulator with live Gantt charts & unit tests | `Tkinter` `Matplotlib` `unittest` |
+| 📊 **[Customer Segmentation](https://github.com/savinaysingh7/customer-segmentation-shopping-trends)** | ML-powered segmentation pipeline with BI dashboards | `Python` `SQL` `Power BI` `ML` |
 | 🇮🇳 **[Indian Demography Dashboard](https://github.com/savinaysingh7)** | Interactive demographic analysis & visualisations | `Python` `Plotly` `Pandas` |
-| 📝 **[SaviNote](https://github.com/savinaysingh7)** | Smart note-taking application | `Python` `Tkinter` |
-| 🌱 **[Community Environmental Report](https://github.com/savinaysingh7)** | Data-driven community sustainability report | `Python` `Power BI` |
+| 📝 **[SaviNote](https://github.com/savinaysingh7/SaviNote)** | Smart note-taking application | `TypeScript` `Python` |
+| 🌱 **[Community Environmental Report](https://github.com/savinaysingh7/Community-Environmental-Report)** | Data-driven community sustainability report | `Python` `Power BI` |
 
 ---
 
@@ -126,7 +126,7 @@ open_to    : Remote · Hybrid · On-site · Relocation
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-savinaysingh7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savinaysingh7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/savinaysingh7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/savinaysingh)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savinaysingh7@gmail.com)
 
 </div>
