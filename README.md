@@ -25,7 +25,7 @@ name            : Savinay Singh
 degree          : B.Tech — Computer Science & Engineering @ LPU (2023–27)
 eng_minor       : Data Science
 open_minor      : Cloud DevOps & Agile Systems Engineering
-cgpa            : 8.32 / 10
+cgpa            : 8.45 / 10
 experience_1    : IT Intern @ Hindalco Industries (2025) — "Excellent" Rating
 experience_2    : Data Science Trainee @ LPU CPE (2025) — "Outstanding (O)" Grade
 scholarship     : AWOO Scholarship (via Hindalco)
